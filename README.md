@@ -1,4 +1,4 @@
-Data Exploration and Cleaning using Pandas
+## Data Exploration and Cleaning using Pandas
 Project Overview
 
 This project was created as part of learning the fundamentals of Python and data analysis using the Pandas library. The main purpose of the project was to understand how raw datasets are processed in real-world scenarios and how data cleaning plays an important role before performing any analysis or visualization.
